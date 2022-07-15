@@ -12,4 +12,8 @@ Taken from [VP 10: Python 3 Setup](https://samsclass.info/124/proj14/VP10.htm)
 
 [Two Sockets](https://youtu.be/xQS9LmM1LWM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xQS9LmM1LWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Two sockets]("https://www.youtube.com/embed/xQS9LmM1LWM
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xQS9LmM1LWM
+" target="_blank"><img src="http://img.youtube.com/vi/xQS9LmM1LWM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
