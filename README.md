@@ -11,3 +11,5 @@ Taken from [VP 10: Python 3 Setup](https://samsclass.info/124/proj14/VP10.htm)
 > [Install/upgrade Python on a Mac](https://www.maketecheasier.com/using-python-3-on-mac/)
 
 [Two Sockets](https://youtu.be/xQS9LmM1LWM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xQS9LmM1LWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
