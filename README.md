@@ -2,7 +2,7 @@
 Somewhat random notes
 
 ## Python
-
+Taken from [VP 10: Python 3 Setup](https://samsclass.info/124/proj14/VP10.htm)
 Try Python online:
 > [Tio Run Python3](https://tio.run/#python3)
 
